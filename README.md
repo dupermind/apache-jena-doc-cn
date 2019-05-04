@@ -16,3 +16,4 @@ Apachee Jena（简称：Jena）是一个免费开源Java框架，用于构建**�
 * [SPARQL 教程](https://jena.apache.org/tutorials/sparql.html) - 将指导你设计 RDF 数据的表达查询。
 * [Ontology API](https://jena.apache.org/documentation/ontology/) - 说明了高级**语义网（semantic web）**功能的使用, 例如使用 OWL 对数据进行推理。
 * 此外, [一些教程](https://jena.apache.org/tutorials/index.html) 提供了多语言版本。
+
